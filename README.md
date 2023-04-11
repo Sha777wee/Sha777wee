@@ -18,8 +18,4 @@ Here are some ideas to get you started:
   <img width="450px" align="left" src="https://github-readme-stats.vercel.app/api/?username=Sha777wee&show_icons=true&count_private=true&langs_count=3&locale=cn&theme=dracula&hide=contribs" />
 </a>
 
-<a href="https://github.com/Sha777wee/">
-  <img width="450px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sha777wee&layout=compact&theme=dracula&show_owner=true&locale=cn" />
-</a>
-
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sha777wee&layout=compact&theme=dracula&show_owner=true&locale=cn)-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sha777wee&layout=compact&theme=dracula&show_owner=true&locale=cn)
