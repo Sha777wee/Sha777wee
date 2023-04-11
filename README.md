@@ -19,5 +19,7 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://github.com/Sha777wee/">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sha777wee&layout=compact&theme=dracula&show_owner=true&locale=cn)
+  <img width="450px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sha777wee&layout=compact&theme=dracula&show_owner=true&locale=cn" />
 </a>
+
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sha777wee&layout=compact&theme=dracula&show_owner=true&locale=cn)-->
